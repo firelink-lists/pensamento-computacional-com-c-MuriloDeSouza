@@ -22,7 +22,7 @@ int main() {
     cin >> nome;
 
     // TODO: Exiba a saudação personalizada
-    cout << "Olá, " << nome << "!Seja bem vinde!" << endl;
+    cout << "Olá, " << nome << " !Seja bem vinde!" << endl;
 
     return 0;
 }
